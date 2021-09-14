@@ -11,7 +11,7 @@ public class JavaScript1  {
 	driver.manage().window().maximize();
 	Thread.sleep(5000);
 JavascriptExecutor js = (JavascriptExecutor)driver;
-js.executeScript("window.location=",   "https://facebook.com");
+js.executeScript("window.location=",   "https://amazon.in");
 	}
 
 }
