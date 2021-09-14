@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-17T11:48:31 IST" name="Default suite" finished-at="2021-08-17T11:48:32 IST" duration-ms="1447">
+    <groups>
+    </groups>
+    <test started-at="2021-08-17T11:48:31 IST" name="Default test" finished-at="2021-08-17T11:48:32 IST" duration-ms="1447">
+      <class name="June22.ReportDemo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:June22.ReportDemo@69997e9d]" started-at="2021-08-17T11:48:31 IST" name="setUp" finished-at="2021-08-17T11:48:31 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPass()[pri:0, instance:June22.ReportDemo@69997e9d]" started-at="2021-08-17T11:48:31 IST" name="testPass" finished-at="2021-08-17T11:48:31 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPass -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:June22.ReportDemo@69997e9d]" started-at="2021-08-17T11:48:32 IST" name="tearDown" finished-at="2021-08-17T11:48:32 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testSkip()[pri:0, instance:June22.ReportDemo@69997e9d]" started-at="2021-08-17T11:48:32 IST" name="testSkip" finished-at="2021-08-17T11:48:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSkip -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:June22.ReportDemo@69997e9d]" started-at="2021-08-17T11:48:32 IST" name="tearDown" finished-at="2021-08-17T11:48:32 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testfail()[pri:0, instance:June22.ReportDemo@69997e9d]" started-at="2021-08-17T11:48:32 IST" name="testfail" finished-at="2021-08-17T11:48:32 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:June22.ReportDemo@69997e9d]" started-at="2021-08-17T11:48:32 IST" name="tearDown" finished-at="2021-08-17T11:48:32 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- June22.ReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

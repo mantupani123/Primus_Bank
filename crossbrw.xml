@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="crossbrowsertesting">
+<test name="chrometest">
+<parameter name="Browser" value="chrome">
+<parameter name="url"  value="http://orangehrm.qedgetech.com/">
+<classes>
+<class name="June18.CrossBrowserTest">
+</class>
+</classes>
+</parameter>
+</parameter>
+</test>
+<test name="firefoxtest">
+<parameter name="Browser" value="firefox">
+<parameter name="url"  value="http://orangehrm.qedgetech.com/">
+<classes>
+<class name="June18.CrossBrowserTest">
+</class>
+</classes>
+</parameter>
+</parameter>
+</test>
+</suite>
